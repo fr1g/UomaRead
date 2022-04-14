@@ -4,4 +4,7 @@
 ### 思路暂时如图
 
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/53085628/163442815-521bd11c-4807-45cb-b9b3-2a21cfd8b01a.png">
-在各位巨巨眼中有些笨拙 是我第一次几乎从头策划动态站点(差点tailwind都不要 而去手搓css了!)
+
+在各位巨巨眼中大概很笨拙! 是我第一次几乎从头策划动态站点(差点tailwind都不要 而去手搓css了!)
+顺便吐槽个wps思维导图.
+丑得我下铺能笑喷了属于是(?)
